@@ -1,4 +1,4 @@
-# 🎓 Student AI Platform - GDG Hackathon Project
+# 🎓 Student AI Platform 
 
 <div align="center">
 
